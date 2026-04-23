@@ -1,0 +1,16 @@
+# .gitignore
+# Ignore build artifacts
+build/
+# Ignore node modules
+node_modules/
+# Ignore environment variables
+.env
+# Ignore log files
+*.log
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+# Ignore VS Code settings
+.vscode/
+# Ignore Google Apps Script temporary files
+.clasp.json
